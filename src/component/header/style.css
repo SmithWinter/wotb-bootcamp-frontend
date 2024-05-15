@@ -4,17 +4,23 @@
     display: flex;
     justify-content: space-between;
     padding: 0px 20px;
+    background-color: #303030;
 }
 .header-title {
     line-height: 120px;
     text-align: center;
     vertical-align: center;
+    font-size: 32px;
+    color: whitesmoke;
 }
 .header-navigation {
     line-height: 120px;
     text-align: center;
     vertical-align: center;
 }
-.example {
-    margin: 0px 5px;
+.header-intro {
+    display: flex;
+}
+.intro-image {
+    margin: 10px 10px 0 0;
 }
